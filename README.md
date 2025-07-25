@@ -13,14 +13,9 @@ O objetivo foi praticar manipulação do DOM, estilização responsiva e funcion
 ## 🎨 Layout
 As tarefas aparecem listadas logo abaixo do botão de adicionar, alinhadas à esquerda em forma de lista.
 
-![Preview do projeto](![demo gif])(https://github.com/user-attachments/assets/712a6b81-6e28-4b3a-babf-e9b30bf2aa22)
+Preview do projeto(![demo gif])(https://github.com/user-attachments/assets/712a6b81-6e28-4b3a-babf-e9b30bf2aa22)
 
 ## 🛠️ Tecnologias utilizadas
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-
-## 📦 Como usar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
